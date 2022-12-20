@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  opchangeshape.cpp
+  opAddRect.cpp
+  main.cpp
+  controller.cpp
+  Shape.cpp
+  Graph.cpp
+  Generating Code...
+  CIE202-project.vcxproj -> C:\Users\ATD\Downloads\circuits\Project Startup Code\Debug\CIE202-project.exe
